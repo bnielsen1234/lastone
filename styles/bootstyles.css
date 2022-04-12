@@ -1,0 +1,58 @@
+.tableaustuff{
+color:white;
+font-weight: bolder;
+font-size: larger;
+}
+
+/* .thisdivwontwork{
+background-color: aqua;
+} */
+
+body
+{
+    background-color:black
+
+}
+.thisdivwontwork{
+height:200px;
+background-color:#05618D;
+text-align: center;
+
+}
+
+
+h2,h3,h4,h5{
+color:white
+}
+
+
+h1{
+    color: black;
+}
+.nav-link{
+    color:black;
+}
+u{
+    color:white;
+}
+    
+.footer{
+    color:white;
+    text-align: center;
+
+
+
+}
+.tableauplaceholder{
+height:800px;
+width:800px
+}
+
+
+
+.tableau{
+text-align: center;
+width:50%;
+margin-left: auto;
+margin-right: auto;
+}
